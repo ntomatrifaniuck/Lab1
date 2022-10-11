@@ -1,1 +1,31 @@
+commit 3b9a8e2a59dba929aaa715c6fa8b052bf09ae9e0 (HEAD -> master, origin/master)
+Author: ntomatrifaniuck <115160395+ntomatrifaniuck@users.noreply.github.com>
+Date:   Wed Oct 12 00:18:12 2022 +0300
+
+    Create FINAL.TXT
+
+commit 18f6a41b723d002818f60fe2e5a0d85766d8acc2
+Merge: f82947c fa6ed2d
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Wed Oct 12 00:02:01 2022 +0300
+
+    Resolved merge conflict by incorporating both suggestions.
+
+commit fa6ed2d622078cff967bf0dfff2cb7cec959bea3 (origin/branch2, branch2)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Tue Oct 11 23:57:52 2022 +0300
+
+    adding files from branch2
+
+commit f82947c43491f89ea2e6d16c9b98877a73d00989 (origin/branch1, branch1)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Tue Oct 11 23:44:00 2022 +0300
+
+    adding files from branch1
+
+commit fa0ebdb122b45e5c7ced16816218dc9f07489e7e (origin/branch5, origin/branch4, origin/branch3, branch5, branch4, branch3)
+Author: Ivan Croitor <vanya26200106@gmail.com>
+Date:   Tue Oct 11 23:42:38 2022 +0300
+
+    first commit
 
